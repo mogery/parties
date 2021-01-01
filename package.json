@@ -1,0 +1,26 @@
+{
+  "name": "parties-bot",
+  "version": "1.0.0",
+  "description": "HHH Listening Parties Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mogery/parties.git"
+  },
+  "author": "mogery",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mogery/parties/issues"
+  },
+  "homepage": "https://github.com/mogery/parties#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0",
+    "googleapis": "^66.0.0",
+    "opusscript": "0.0.7",
+    "ytdl-core": "^4.2.1"
+  }
+}
