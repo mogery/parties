@@ -88,5 +88,4 @@ function run(state, dc) {
         }
     }
 }
-
 module.exports = { createState, run };
